@@ -1,0 +1,35 @@
+body {
+    font-family: 'Philosopher', cursive;
+    background-image: url("../images/BookClub/bg.jpeg");
+}
+
+.navbar-brand img {
+    height: 5vh;
+    width: 5vw;
+}
+
+.carousel-section {
+    font-family: 'Philosopher', cursive;
+    /* color: blue; */
+}
+
+.carousel-inner h5 {
+    color: darkorange
+}
+
+.carousel-inner p {
+    color: deepskyblue
+}
+
+.carousel-control-next {
+    color: mediumpurple;
+}
+
+
+/* font-family: 'Satisfy', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Sacramento', cursive;
+font-family: 'Philosopher', sans-serif;
+font-family: 'Tangerine', cursive;
+font-family: 'Merienda', cursive;
+font-family: 'Bad Script', cursiveont-family: 'Sarala', sans-serif; */
